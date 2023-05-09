@@ -1,5 +1,5 @@
 #!groovy
-
+#new
 node {
   stage ('Checkout') {
     checkout scm
